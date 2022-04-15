@@ -44,6 +44,8 @@ app.get("/api/fortune", (req, res) => {
     "A pleasant surprise is waiting for you",
     "All your hard work will soon pay off.",
     "Do not let ambitions overshadow small success.",
+    "Courtesy begins in the home.",
+    "Disbelief destroys the magic.",
   ];
 
   // choose random compliment
